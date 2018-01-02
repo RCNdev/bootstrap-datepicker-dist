@@ -1,0 +1,19 @@
+{
+    "name": "rcn3rdparty/bootstrap-datepicker-dist",
+    "description": "A datepicker for Bootstrap, distribution version without hideous dependencies",
+    "license": "Apache-2.0",
+    "keywords": [
+        "bootstrap",
+        "datepicker"
+    ],
+    "authors": [
+        {
+            "name": "Andrew Rowls",
+            "email": "eternicode@gmail.com"
+        },
+        {
+            "name": "Community",
+            "homepage": "https://github.com/uxsolutions/bootstrap-datepicker/contributors"
+        }
+    ]
+}
